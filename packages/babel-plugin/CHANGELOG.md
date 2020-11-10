@@ -1,5 +1,11 @@
 # @emotion/babel-plugin
 
+## 11.0.0-rc.1
+
+### Major Changes
+
+- [`b7d21373`](https://github.com/emotion-js/emotion/commit/b7d21373d967d0f958dd59aaaa650047e23e8e8b) [#2080](https://github.com/emotion-js/emotion/pull/2080) Thanks [@Andarist](https://github.com/Andarist)! - `cssPropOptimization` defaults now to `true` regardless of the `@emotion/react` import presence.
+
 ## 11.0.0-rc.0
 
 ### Major Changes

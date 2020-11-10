@@ -1,5 +1,17 @@
 # @emotion/primitives
 
+## 11.0.0-rc.1
+
+### Minor Changes
+
+- [`2d597857`](https://github.com/emotion-js/emotion/commit/2d5978579f758163663c1bfb40e7d76bc24ae26a) [#2058](https://github.com/emotion-js/emotion/pull/2058) Thanks [@efoken](https://github.com/efoken)! - Added support for the `as` prop.
+
+### Patch Changes
+
+- Updated dependencies [[`b7d21373`](https://github.com/emotion-js/emotion/commit/b7d21373d967d0f958dd59aaaa650047e23e8e8b), [`2d597857`](https://github.com/emotion-js/emotion/commit/2d5978579f758163663c1bfb40e7d76bc24ae26a)]:
+  - @emotion/babel-plugin@11.0.0-rc.1
+  - @emotion/primitives-core@11.0.0-rc.1
+
 ## 11.0.0-rc.0
 
 ### Major Changes

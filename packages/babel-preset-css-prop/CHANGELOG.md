@@ -1,5 +1,16 @@
 # @emotion/babel-preset-css-prop
 
+## 11.0.0-rc.1
+
+### Major Changes
+
+- [`9e3671c4`](https://github.com/emotion-js/emotion/commit/9e3671c466975fb31cd45431e25cb60ffb677a70) [#2076](https://github.com/emotion-js/emotion/pull/2076) Thanks [@Andarist](https://github.com/Andarist)! - Removed `runtime` option that was introduced to this preset and deprecated shortly after that. If you want to configure `runtime: "automatic"`, replace `@emotion/babel-preset-css-prop` with `@babel/preset-react` and `@emotion/babel-plugin`. You can find out how to configure things properly here: https://emotion.sh/docs/css-prop#babel-preset
+
+### Patch Changes
+
+- Updated dependencies [[`b7d21373`](https://github.com/emotion-js/emotion/commit/b7d21373d967d0f958dd59aaaa650047e23e8e8b)]:
+  - @emotion/babel-plugin@11.0.0-rc.1
+
 ## 11.0.0-rc.0
 
 ### Major Changes
